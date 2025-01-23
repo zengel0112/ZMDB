@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ZMDB/static/css/main.ee83ef50.css",
+    "main.js": "/ZMDB/static/js/main.97dbb380.js",
+    "static/js/787.28cb0dcd.chunk.js": "/ZMDB/static/js/787.28cb0dcd.chunk.js",
+    "static/media/counter-strike-1-6.otf": "/ZMDB/static/media/counter-strike-1-6.4decdbc309f927107180.otf",
+    "static/media/logo.svg": "/ZMDB/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ZMDB/index.html",
+    "main.ee83ef50.css.map": "/ZMDB/static/css/main.ee83ef50.css.map",
+    "main.97dbb380.js.map": "/ZMDB/static/js/main.97dbb380.js.map",
+    "787.28cb0dcd.chunk.js.map": "/ZMDB/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee83ef50.css",
+    "static/js/main.97dbb380.js"
+  ]
+}
